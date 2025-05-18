@@ -1,6 +1,6 @@
 # Vehicle Tracking System for Embedded Systems Course
 
-* I'm using Arduino IDE and its workflow.
+* I'm using Arduino IDE 2 (installed from Microsoft Store on Windows) and its workflow.
 * The main file is `vehicle-tracking-sytem.ino`. Make sure the containing directory is named the same ("vehicle-tracking-system").
 * You'll need `secrets.h` to be able to compile it (it contains the secret variables). Hit me up, and I'll send it to you.
 * Here are the libraries you'll need to install in your Arduino IDE:
